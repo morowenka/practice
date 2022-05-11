@@ -1,0 +1,8 @@
+bus
+car
+cyclist
+jeep
+misc
+pedestrian
+truck
+van
