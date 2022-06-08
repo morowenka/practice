@@ -1,2 +1,2 @@
 # practice
-vehicles detection and classification
+Vehicles detection and classification
